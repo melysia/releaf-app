@@ -1,4 +1,4 @@
-# Book Sections App
+# Releaf
 
 An offline-first web application for managing books and their sections/quotes. Built with React and IndexedDB.
 
